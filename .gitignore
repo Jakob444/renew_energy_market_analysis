@@ -1,1 +1,5 @@
-.energyenv/
+.*energyenv*
+*energyenv*
+*/.energyenv/*
+__pycache__/
+*.pyc
